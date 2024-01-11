@@ -49,7 +49,7 @@
               </label>
 
               <a
-                href="https://gera814.github.io/vue-csv-manager/Artikel.csv"
+                href="https://bence148.github.io/csv-manager/Artikel.csv"
                 target="_blank"
                 class="text-sm font-semibold leading-6 text-gray-900"
               >
